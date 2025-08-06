@@ -96,8 +96,8 @@ npm run dev
 ```
 
 7. Open your browser and navigate to:
-- Frontend: http://localhost:5173
-- Backend API: http://localhost:5001
+- Frontend: [http://localhost:5173](https://project-ppbljbsjo-akash-n-s-projects.vercel.app)
+- Backend API: [http://localhost:5001](https://ecommerce-app-638m.onrender.com)
 
 ## Project Structure
 
