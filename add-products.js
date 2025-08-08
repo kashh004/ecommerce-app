@@ -1,6 +1,8 @@
 import mongoose from 'mongoose';
+import dotenv from 'dotenv';
+dotenv.config();
 
-const MONGODB_URI = 'mongodb+srv://akashngowda2004:akash2004@cluster0.nz99qzc.mongodb.net/ecommerce?retryWrites=true&w=majority&appName=Cluster0';
+const MONGODB_URI = process.env.MONGODB_URI;
 
 // Product Schema
 const productSchema = new mongoose.Schema({
