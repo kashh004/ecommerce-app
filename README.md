@@ -1,3 +1,10 @@
+# ## Live Demo
+ 
+## Live Demo
+
+- 🛒 Frontend: [https://project-ppbljbsjo-akash-n-s-projects.vercel.app](https://project-ppbljbsjo-akash-n-s-projects.vercel.app)
+- ⚙️ Backend API: [https://ecommerce-app-638m.onrender.com](https://ecommerce-app-638m.onrender.com)
+
 # E-Commerce Web Application
 
 A full-stack e-commerce web application built with React.js, Node.js, Express.js, and MongoDB.
@@ -96,8 +103,13 @@ npm run dev
 ```
 
 7. Open your browser and navigate to:
+<<<<<<< HEAD
 - Frontend: [LINK](https://project-ppbljbsjo-akash-n-s-projects.vercel.app)
 - Backend API: [LINK](https://ecommerce-app-638m.onrender.com)
+=======
+- Frontend: https://project-ppbljbsjo-akash-n-s-projects.vercel.app
+- Backend API: https://ecommerce-app-638m.onrender.com
+>>>>>>> Save local changes before pulling
 
 ## Project Structure
 
